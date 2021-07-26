@@ -2,6 +2,8 @@
 Aplikasi sederhana yang digunakan untuk mendata Manga atau komik Jepang. Dapat mencatat data Manga mulai dari judul manga, nama pengarang, tahun rilis dan serial number.
 Aplikasi ini dibangun dengan Vanilla JavaScript
 
+![my-manga-list](https://i.postimg.cc/QtD8McbW/Manga-Lis.png)
+
 # Fitur apa saja yang digunakan?
 1. Form Validation
 2. Real-time on input and delete data

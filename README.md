@@ -8,3 +8,4 @@ Aplikasi ini dibangun dengan Vanilla JavaScript
 3. Alert on process input and delete data
 4. Using Browser Local Storage (Persistent Data)
 5. Using OOP Principles.
+6. Made with Materalize UI CSS
